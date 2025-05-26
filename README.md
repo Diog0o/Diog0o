@@ -1,4 +1,4 @@
-## 💫 About Me
+## 👨🏻‍💻 About Me
 
 - 🔭 I’m a Full Stack Developer driven by curiosity and creativity
 - 🌍 Check out my website: [portfolio-ten-olive-53.vercel.app](https://portfolio-ten-olive-53.vercel.app/)  
