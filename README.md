@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🔭 I’m a Full Stack Developer driven by curiosity and creativity
-- 🌍 Check out my website: [portfolio-ten-olive-53.vercel.app](https://portfolio-ten-olive-53.vercel.app/)  
+- 🌍 Check out my website: [portfolio-ten-olive-53.vercel.app](https://diogoguerreiro.dev)  
 - 📄 View my resumée: [Google Drive Link](https://drive.google.com/file/d/1byrK6lUpcUlbVb54oC6FBBA-p8Kv1iEa/view)  
 - 🎓 Graduated in **Software and Computer Engineering** at **IST, Portugal**  
 - 💻 Currently building **PULSE**, a fitness social network app  
