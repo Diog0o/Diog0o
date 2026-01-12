@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me
 
-- 🔭 I’m a Full Stack Developer driven by curiosity and creativity
+- 🔭 I’m a Software Engineer who loves learning new things
 - 🌍 Check out my website: [diogoguerreiro.dev](https://diogoguerreiro.dev)  
 - 📄 View my resumée: [Google Drive Link](https://drive.google.com/file/d/1byrK6lUpcUlbVb54oC6FBBA-p8Kv1iEa/view)  
 - 🎓 Graduated in **Software and Computer Engineering** at **IST, Portugal**  
